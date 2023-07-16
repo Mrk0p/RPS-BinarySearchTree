@@ -45,6 +45,7 @@ public class HashTable {
         inputSentence("Paranoids are not paranoid because they are paranoid but because "
                 + "they keep putting themselves deliberately into paranoid avoidable situations");
 
+
         String string = "Paranoids are not paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations";
         String removeWord = "avoidable";
         remove(string, removeWord);
